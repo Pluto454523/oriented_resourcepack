@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/oriented_funiture/sign/alchemy",
+		"particle": "custom/oriented_funiture/sign/alchemy"
+	},
+	"elements": [
+		{
+			"from": [-16, -4.05, 0],
+			"to": [24, 19.95, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 9.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.25, 9], "texture": "#0"},
+				"south": {"uv": [0, 9.5, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.25, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 0.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 0.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 1.5],
+			"scale": [0.2207, 0.2207, 0.2207]
+		},
+		"firstperson_righthand": {
+			"translation": [9, -7.25, -0.5],
+			"scale": [0.51, 1, 1]
+		},
+		"fixed": {
+			"translation": [79, 32, 29],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

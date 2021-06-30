@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "custommodel/oriented_funiture/polished_basalt_very_black/polished_basalt_very_black"}
+	]
+}

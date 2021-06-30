@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/oriented_funiture/stone/stone",
+		"particle": "custom/oriented_funiture/stone/stone"
+	},
+	"elements": [
+		{
+			"from": [4.825, 0, 6.025],
+			"to": [7.925, 1.575, 8.95],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.925, 1.575], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 2.925, 1.575], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.075, 0, 9.55],
+			"to": [11.225, 0.8, 11.975],
+			"faces": {
+				"north": {"uv": [0, 0, 2.15, 0.8], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.425, 0.8], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.15, 0.8], "texture": "#0"},
+				"west": {"uv": [0, 0, 2.425, 0.8], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.15, 2.425], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.15, 2.425], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.25, 0, 5.3],
+			"to": [10.925, 0.225, 6.9],
+			"faces": {
+				"north": {"uv": [0, 0, 1.675, 0.225], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.6, 0.225], "texture": "#0"},
+				"south": {"uv": [0, 0, 1.675, 0.225], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.6, 0.225], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 1.675, 1.6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.125, 0, 9.65],
+			"to": [7.8, 0.225, 11.25],
+			"faces": {
+				"north": {"uv": [0, 0, 1.675, 0.225], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.6, 0.225], "texture": "#0"},
+				"south": {"uv": [0, 0, 1.675, 0.225], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.6, 0.225], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 1.675, 1.6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -17.5],
+			"scale": [2.14453, 2.14453, 2.14453]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
