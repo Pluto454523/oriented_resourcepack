@@ -65,6 +65,7 @@
 		{ "predicate": { "custom_model_data": 58}, "model": "custommodel/oriented_funiture/sign/lumber-board"},
 		{ "predicate": { "custom_model_data": 59}, "model": "custommodel/oriented_funiture/sign/hunter-board"},
 		{ "predicate": { "custom_model_data": 60}, "model": "custommodel/oriented_funiture/sign/enchanter-board"},
-		{ "predicate": { "custom_model_data": 61}, "model": "custommodel/oriented_funiture/sign/fishing-board"}
+		{ "predicate": { "custom_model_data": 61}, "model": "custommodel/oriented_funiture/sign/fishing-board"},
+		{ "predicate": { "custom_model_data": 62}, "model": "custommodel/oriented_item/whistle/whistle"}
 	]
 }
