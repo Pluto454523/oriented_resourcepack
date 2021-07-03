@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "custom/oriented_funiture/popcorn_machine/popcorn machine"
+		"1": "custom/oriented_funiture/popcorn_machine/popcorn_machine"
 	},
 	"elements": [
 		{
