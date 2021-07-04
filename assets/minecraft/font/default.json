@@ -7,6 +7,12 @@
       "type": "bitmap"
     },
     { "file": "font/base/black.png",
+      "chars": ["\uF822"],
+      "height": 1,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    { "file": "font/base/black.png",
       "chars": ["\uF823"],
       "height": 2,
       "ascent": -5000,
