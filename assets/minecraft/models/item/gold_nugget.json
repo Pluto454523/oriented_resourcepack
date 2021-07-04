@@ -67,6 +67,8 @@
       {"predicate":{"custom_model_data":61},"model":"custommodel/oriented_funiture/sign/fishing-board"},
       {"predicate":{"custom_model_data":62},"model":"custommodel/oriented_funiture/gacha/gacha_normal"},
       {"predicate":{"custom_model_data":63},"model":"custommodel/oriented_funiture/gacha/gacha_high"},
-      {"predicate":{"custom_model_data":64},"model":"custommodel/oriented_funiture/gacha/gacha_highest"}
+      {"predicate":{"custom_model_data":64},"model":"custommodel/oriented_funiture/gacha/gacha_highest"},
+      {"predicate":{"custom_model_data":65},"model":"custommodel/oriented_item/knife/knife"},
+      {"predicate":{"custom_model_data":66},"model":"custommodel/oriented_cosmetics/oriented-bag/oriented-bag"}
 	]
 }
