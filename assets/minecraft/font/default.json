@@ -707,6 +707,13 @@
       "height": 20,
       "ascent": -93,
       "chars": ["\uE06c"]
+    },
+    { "file": "minecraft:custom/oriented_emoji/emote_1/emote_1.png",
+      "type": "bitmap",
+      "height": 22,
+      "width": 11,
+      "ascent": 22,
+      "chars": ["\uE06D\uE06E\uE06F\uE070\uE071\uE072\uE073\uE074\uE075\uE076\uE077\uE078\uE079\uE07A\uE07B\uE07C\uE07D\uE07E\uE07F\uE080\uE081\uE082\uE083\uE084\uE085\uE086\uE087\uE088\uE089\uE08A\uE08B\uE08C\uE08D\uE08E\uE08F\uE090\uE091\uE092\uE093"]
     }
   ]
 }
