@@ -710,10 +710,21 @@
     },
     { "file": "minecraft:custom/oriented_emoji/emote_1/emote_1.png",
       "type": "bitmap",
-      "height": 22,
-      "width": 11,
-      "ascent": 22,
+      "height": 12,
+      "ascent": 12,
       "chars": ["\uE06D\uE06E\uE06F\uE070\uE071\uE072\uE073\uE074\uE075\uE076\uE077\uE078\uE079\uE07A\uE07B\uE07C\uE07D\uE07E\uE07F\uE080\uE081\uE082\uE083\uE084\uE085\uE086\uE087\uE088\uE089\uE08A\uE08B\uE08C\uE08D\uE08E\uE08F\uE090\uE091\uE092\uE093"]
+    },
+    { "file": "minecraft:custom/oriented_emoji/emote_2/emote_2.png",
+      "type": "bitmap",
+      "height": 12,
+      "ascent": 12,
+      "chars": ["\uE094\uE095\uE096\uE097\uE098\uE099\uE09A\uE09B\uE09C\uE09D\uE09E\uE09F\uE0A0\uE0A1\uE0A2\uE0A3\uE0A4\uE0A5\uE0A6\uE0A7\uE0A8\uE0A9\uE0AA\uE0AB\uE0AC\uE0AD\uE0AE\uE0AF"]
+    },
+    { "file": "minecraft:custom/oriented_emoji/emote_2/3b.png",
+      "type": "bitmap",
+      "height": 12,
+      "ascent": 12,
+      "chars": ["\uE0B0\uE0B1\uE0B2"]
     }
   ]
 }
