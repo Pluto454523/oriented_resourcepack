@@ -8,6 +8,11 @@
         {"predicate": {"custom_model_data":2}, "model": "custommodel/oriented_item/tested/tested"},
         {"predicate": {"custom_model_data":3}, "model": "custommodel/oriented_item/wand/wand_1"},
         {"predicate": {"custom_model_data":4}, "model": "custommodel/oriented_item/slasher_blade/slasher_blade"},
-        {"predicate":{"custom_model_data":5},"model":"custommodel/oriented_item/knife/knife"}
+        {"predicate":{"custom_model_data":5},"model":"custommodel/oriented_item/knife/knife"},
+        {"predicate":{"custom_model_data":6},"model":"custommodel/oriented_item/bone-lancer/bone-lancer"},
+        {"predicate":{"custom_model_data":7},"model":"custommodel/oriented_item/nodachi/nodachi"},
+        {"predicate":{"custom_model_data":8},"model":"custommodel/oriented_item/dragon-katana/dragon-katana"},
+        {"predicate":{"custom_model_data":9},"model":"custommodel/oriented_item/spear-trident/spear-trident"},
+        {"predicate":{"custom_model_data":10},"model":"custommodel/oriented_item/dragon-scythe/dragon-scythe"}
     ]
 }

@@ -70,6 +70,16 @@
       {"predicate":{"custom_model_data":64},"model":"custommodel/oriented_funiture/gacha/gacha_highest"},
       {"predicate":{"custom_model_data":66},"model":"custommodel/oriented_cosmetics/oriented-bag/oriented-bag"},
       {"predicate":{"custom_model_data":67},"model":"custommodel/oriented_item/whistle/whistle"},
-      {"predicate":{"custom_model_data":68},"model":"custommodel/oriented_funiture/gacha/gacha_purple"}
+      {"predicate":{"custom_model_data":68},"model":"custommodel/oriented_cosmetics/gacha/gacha_purple"},
+      {"predicate":{"custom_model_data":69},"model":"custommodel/oriented_cosmetics/cosmetics/cosmetics2"},
+      {"predicate":{"custom_model_data":70},"model":"custommodel/oriented_cosmetics/cosmetics/cosmetics3"},
+      {"predicate":{"custom_model_data":71},"model":"custommodel/oriented_cosmetics/cosmetics/cosmetics4"},
+      {"predicate":{"custom_model_data":72},"model":"custommodel/oriented_cosmetics/cosmetics/dinosaur_hat"},
+      {"predicate":{"custom_model_data":73},"model":"custommodel/oriented_cosmetics/cosmetics/winged_hat"},
+      {"predicate":{"custom_model_data":74},"model":"custommodel/oriented_cosmetics/cosmetics/bat_glasses"},
+      {"predicate":{"custom_model_data":75},"model":"custommodel/oriented_cosmetics/cosmetics/crown"},
+      {"predicate":{"custom_model_data":76},"model":"custommodel/oriented_cosmetics/cosmetics/aviators"},
+      {"predicate":{"custom_model_data":77},"model":"custommodel/oriented_cosmetics/cosmetics/cowboyhat"},
+      {"predicate":{"custom_model_data":78},"model":"custommodel/oriented_cosmetics/cosmetics/samurai-helm"}
    ]
 }
