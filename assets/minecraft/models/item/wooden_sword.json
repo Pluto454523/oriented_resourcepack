@@ -14,6 +14,8 @@
         {"predicate":{"custom_model_data":8},"model":"custommodel/oriented_item/dragon-katana/dragon-katana"},
         {"predicate":{"custom_model_data":9},"model":"custommodel/oriented_item/spear-trident/spear-trident"},
         {"predicate":{"custom_model_data":10},"model":"custommodel/oriented_item/dragon-scythe/dragon-scythe"},
-        {"predicate":{"custom_model_data":11},"model":"custommodel/oriented_item/axe_1/axe_1"}
+        {"predicate":{"custom_model_data":11},"model":"custommodel/oriented_item/axe_1/axe_1"},
+        {"predicate":{"custom_model_data":11},"model":"custommodel/oriented_item/dane-axe/dane-axe"},
+        {"predicate":{"custom_model_data":11},"model":"custommodel/oriented_item/dark-staff/dark-staff"}
     ]
 }

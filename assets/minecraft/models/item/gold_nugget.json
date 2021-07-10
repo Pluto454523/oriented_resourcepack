@@ -81,6 +81,7 @@
       {"predicate":{"custom_model_data":76},"model":"custommodel/oriented_cosmetics/cosmetics/aviators"},
       {"predicate":{"custom_model_data":77},"model":"custommodel/oriented_cosmetics/cosmetics/cowboyhat"},
       {"predicate":{"custom_model_data":78},"model":"custommodel/oriented_cosmetics/cosmetics/samurai-helm"},
-      {"predicate":{"custom_model_data":79},"model":"custommodel/oriented_cosmetics/witch_hat/witch_hat"}
+      {"predicate":{"custom_model_data":79},"model":"custommodel/oriented_cosmetics/witch_hat/witch_hat"},
+        {"predicate":{"custom_model_data":80},"model":"custommodel/oriented_cosmetics/cosmetics/dragon-katana-shealth"}
    ]
 }
