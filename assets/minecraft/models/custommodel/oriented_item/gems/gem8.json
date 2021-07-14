@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "custom/oriented_item/gems/gem8"
+	},
+	"elements": [
+		{
+			"from": [1.75, 0, 5],
+			"to": [17.5, 16.75, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 15.5, 15], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.95294, 16], "texture": "#1"},
+				"south": {"uv": [15.5, 0, 0, 15.5], "texture": "#1"},
+				"west": {"uv": [3.29412, 6.30588, 6.4, 9.55294], "texture": "#1"},
+				"up": {"uv": [0, 0, 15.75, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 15.75, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.25, 1.75, 3.25],
+			"scale": [0.3, 0.23, 1]
+		},
+		"ground": {
+			"translation": [-1.75, 5.75, 0],
+			"scale": [1.16, 1.16, 1]
+		}
+	}
+}
