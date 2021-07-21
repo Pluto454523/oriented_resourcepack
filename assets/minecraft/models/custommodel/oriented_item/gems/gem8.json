@@ -25,6 +25,12 @@
 		"ground": {
 			"translation": [-1.75, 5.75, 0],
 			"scale": [1.16, 1.16, 1]
+		},
+		"gui": {
+			"translation": [-2.75, 0, 0]
+		},
+		"fixed": {
+			"translation": [-2.25, 0, 0]
 		}
 	}
 }

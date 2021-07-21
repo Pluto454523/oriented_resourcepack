@@ -83,15 +83,15 @@
       {"predicate":{"custom_model_data":78},"model":"custommodel/oriented_cosmetics/cosmetics/samurai-helm"},
       {"predicate":{"custom_model_data":79},"model":"custommodel/oriented_cosmetics/witch_hat/witch_hat"},
       {"predicate":{"custom_model_data":80},"model":"custommodel/oriented_cosmetics/cosmetics/dragon-katana-shealth"},
-      {"predicate":{"custom_model_data":81},"model":"custommodel/oriented_items/gems/gem1"},
-      {"predicate":{"custom_model_data":82},"model":"custommodel/oriented_items/gems/gem2"},
-      {"predicate":{"custom_model_data":83},"model":"custommodel/oriented_items/gems/gem3"},
-      {"predicate":{"custom_model_data":84},"model":"custommodel/oriented_items/gems/gem4"},
-      {"predicate":{"custom_model_data":85},"model":"custommodel/oriented_items/gems/gem5"},
-      {"predicate":{"custom_model_data":86},"model":"custommodel/oriented_items/gems/gem6"},
-      {"predicate":{"custom_model_data":87},"model":"custommodel/oriented_items/gems/gem7"},
-      {"predicate":{"custom_model_data":88},"model":"custommodel/oriented_items/gems/gem8"},
-      {"predicate":{"custom_model_data":89},"model":"custommodel/oriented_items/gems/gem9"},
-      {"predicate":{"custom_model_data":90},"model":"custommodel/oriented_items/gems/gem10"}
+      {"predicate":{"custom_model_data":81},"model":"custommodel/oriented_item/gems/gem1"},
+      {"predicate":{"custom_model_data":82},"model":"custommodel/oriented_item/gems/gem2"},
+      {"predicate":{"custom_model_data":83},"model":"custommodel/oriented_item/gems/gem3"},
+      {"predicate":{"custom_model_data":84},"model":"custommodel/oriented_item/gems/gem4"},
+      {"predicate":{"custom_model_data":85},"model":"custommodel/oriented_item/gems/gem5"},
+      {"predicate":{"custom_model_data":86},"model":"custommodel/oriented_item/gems/gem6"},
+      {"predicate":{"custom_model_data":87},"model":"custommodel/oriented_item/gems/gem7"},
+      {"predicate":{"custom_model_data":88},"model":"custommodel/oriented_item/gems/gem8"},
+      {"predicate":{"custom_model_data":89},"model":"custommodel/oriented_item/gems/gem9"},
+      {"predicate":{"custom_model_data":90},"model":"custommodel/oriented_item/gems/gem10"}
    ]
 }

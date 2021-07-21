@@ -18,9 +18,17 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [-3.5, -3.25, -2.25],
+			"scale": [0.50195, 0.50195, 0.50195]
+		},
 		"ground": {
 			"translation": [-3.5, -6.5, 0.25],
 			"scale": [0.74, 0.82, 1]
+		},
+		"gui": {
+			"translation": [-5.25, -7.75, 0],
+			"scale": [1.34375, 1.34375, 1.34375]
 		}
 	}
 }

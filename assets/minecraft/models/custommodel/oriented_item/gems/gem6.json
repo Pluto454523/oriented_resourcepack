@@ -20,11 +20,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0.75, 0.75, 2.75],
-			"scale": [0.51, 0.48, 1]
+			"translation": [0.75, 0, 1],
+			"scale": [0.29641, 0.29641, 0.29641]
 		},
 		"ground": {
 			"translation": [1.25, 0, 6]
+		},
+		"gui": {
+			"translation": [1, -5, 0]
 		}
 	}
 }
