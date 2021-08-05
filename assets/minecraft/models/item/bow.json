@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+"overrides" : [
+        {"predicate":{"custom_model_data":1},"model":"custommodel/oriented_item/light-bow/light-bow"},
+        {"predicate":{"custom_model_data":2},"model":"custommodel/oriented_item/sleet-bow/sleet-bow"},
+        {"predicate":{"custom_model_data":3},"model":"custommodel/oriented_item/light-bow/light-bow"},
+        {"predicate":{"custom_model_data":4},"model":"custommodel/oriented_item/flames_short/flames_short"},
+        {"predicate":{"custom_model_data":5},"model":"custommodel/oriented_item/bone-bow/bone-bow"},
+        {"predicate":{"custom_model_data":6},"model":"custommodel/oriented_item/air-bow/air-bow"},
+        {"predicate":{"custom_model_data":7},"model":"custommodel/oriented_item/steampunk-bow/steampunk_bow_model"}
+    ]
+}

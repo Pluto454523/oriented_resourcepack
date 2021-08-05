@@ -16,6 +16,26 @@
         {"predicate":{"custom_model_data":10},"model":"custommodel/oriented_item/dragon-scythe/dragon-scythe"},
         {"predicate":{"custom_model_data":11},"model":"custommodel/oriented_item/axe_1/axe_1"},
         {"predicate":{"custom_model_data":12},"model":"custommodel/oriented_item/dane-axe/dane-axe"},
-        {"predicate":{"custom_model_data":13},"model":"custommodel/oriented_item/dark-staff/dark-staff"}
+        {"predicate":{"custom_model_data":13},"model":"custommodel/oriented_item/eagle-sword/eagle-sword"},
+        {"predicate":{"custom_model_data":14},"model":"custommodel/oriented_item/ice-axe/magical_ice_axe"},
+        {"predicate":{"custom_model_data":16},"model":"custommodel/oriented_item/killer-claw/killer-claw"},
+        {"predicate":{"custom_model_data":17},"model":"custommodel/oriented_item/bloody-vengeance/bloody-vengeance"},
+        {"predicate":{"custom_model_data":18},"model":"custommodel/oriented_item/axe/axe"},
+        {"predicate":{"custom_model_data":19},"model":"custommodel/oriented_item/axe_1/axe_1"},
+        {"predicate":{"custom_model_data":20},"model":"custommodel/oriented_item/rising_green_flame/rising_green_flame"},
+        {"predicate":{"custom_model_data":21},"model":"custommodel/oriented_item/octavia_sword/octavia_sword"},
+        {"predicate":{"custom_model_data":22},"model":"custommodel/oriented_item/serpent_wand/serpent_wand"},
+        {"predicate":{"custom_model_data":23},"model":"custommodel/oriented_item/skull-axe/skull-axe"},
+        {"predicate":{"custom_model_data":24},"model":"custommodel/oriented_item/sword/1"},
+        {"predicate":{"custom_model_data":25},"model":"custommodel/oriented_item/sword/2"},
+        {"predicate":{"custom_model_data":26},"model":"custommodel/oriented_item/thor_hammer/thor_hammer"},
+        {"predicate":{"custom_model_data":27},"model":"custommodel/oriented_item/pharoah_sword/pharoah_sword"},
+        {"predicate":{"custom_model_data":28},"model":"custommodel/oriented_item/beast-gaunlet/beast-gaunlet"},
+        {"predicate":{"custom_model_data":29},"model":"custommodel/oriented_item/legend-trident/legend-trident"},
+        {"predicate":{"custom_model_data":30},"model":"custommodel/oriented_item/kusari/kusari"},
+        {"predicate":{"custom_model_data":31},"model":"custommodel/oriented_item/rune-dagger/rune_dagger"},
+        {"predicate":{"custom_model_data":32},"model":"custommodel/oriented_item/wind-staff/wind-staff"},
+        {"predicate":{"custom_model_data":33},"model":"custommodel/oriented_item/hell-spliter/hell-spliter"},
+        {"predicate":{"custom_model_data":34},"model":"custommodel/oriented_item/raijinnoken/raijinnoken"}
     ]
 }
