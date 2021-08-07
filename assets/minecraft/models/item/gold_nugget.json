@@ -24,7 +24,6 @@
       {"predicate":{"custom_model_data":18},"model":"custommodel/oriented_funiture/pot/flower_pot"},
       {"predicate":{"custom_model_data":19},"model":"custommodel/oriented_funiture/tree/trees_1"},
       {"predicate":{"custom_model_data":20},"model":"custommodel/oriented_funiture/umbrella/umbrella1"},
-      {"predicate":{"custom_model_data":21},"model":"custommodel/oriented_funiture/table/table1"},
       {"predicate":{"custom_model_data":22},"model":"custommodel/oriented_funiture/umbrella/umbrella2"},
       {"predicate":{"custom_model_data":23},"model":"custommodel/oriented_funiture/umbrella/umbrella3"},
       {"predicate":{"custom_model_data":24},"model":"custommodel/oriented_funiture/umbrella/umbrella4"},
@@ -115,6 +114,7 @@
       {"predicate":{"custom_model_data":111},"model":"custommodel/oriented_funiture/watering-can/wateringcanmetal"},
       {"predicate":{"custom_model_data":112},"model":"custommodel/oriented_funiture/wheel-basket/wheelbarrow_blue"},
       {"predicate":{"custom_model_data":113},"model":"custommodel/oriented_cosmetics/cosmetics/samurai-gadget"},
-      {"predicate":{"custom_model_data":114},"model":"custommodel/oriented_cosmetics/cosmetics/oni-mask"}
+      {"predicate":{"custom_model_data":114},"model":"custommodel/oriented_cosmetics/cosmetics/oni-mask"},
+      {"predicate":{"custom_model_data":115},"model":"custommodel/oriented_funiture/table/table"}
    ]
 }
