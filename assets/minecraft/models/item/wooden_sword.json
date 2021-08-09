@@ -38,6 +38,7 @@
         {"predicate":{"custom_model_data":32},"model":"custommodel/oriented_item/wind-staff/wind-staff"},
         {"predicate":{"custom_model_data":33},"model":"custommodel/oriented_item/hell-spliter/hell-spliter"},
         {"predicate":{"custom_model_data":34},"model":"custommodel/oriented_item/raijinnoken/raijinnoken"},
-        {"predicate":{"custom_model_data":35},"model":"custommodel/oriented_item/thorn-blade/thorn-blade"}
+        {"predicate":{"custom_model_data":35},"model":"custommodel/oriented_item/thorn-blade/thorn-blade"},
+        {"predicate":{"custom_model_data":36},"model":"custommodel/oriented_item/holy-sword/holy-sword"}
     ]
 }
