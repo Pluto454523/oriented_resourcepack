@@ -32,6 +32,7 @@
         {"predicate":{"custom_model_data":4},"model":"custommodel/oriented_item/flames_short/flames_short"},
         {"predicate":{"custom_model_data":5},"model":"custommodel/oriented_item/bone-bow/bone-bow"},
         {"predicate":{"custom_model_data":6},"model":"custommodel/oriented_item/air-bow/air-bow"},
-        {"predicate":{"custom_model_data":7},"model":"custommodel/oriented_item/steampunk-bow/steampunk_bow_model"}
+        {"predicate":{"custom_model_data":7},"model":"custommodel/oriented_item/steampunk-bow/steampunk_bow_model"},
+        {"predicate":{"custom_model_data":8},"model":"custommodel/oriented_item/holy-bundle/holy-bow"}
     ]
 }

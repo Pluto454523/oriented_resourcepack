@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/oriented_item/holy-sword/basic_gold",
-		"1": "custom/oriented_item/holy-sword/pulse_effect",
-		"particle": "custom/oriented_item/holy-sword/basic_gold"
+		"0": "custom/oriented_item/holy-bundle/basic_gold",
+		"1": "custom/oriented_item/holy-bundle/pulse_effect",
+		"particle": "custom/oriented_item/holy-bundle/basic_gold"
 	},
 	"elements": [
 		{
@@ -376,7 +376,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0.75, 13.75, 1.75]
+			"translation": [0.75, 13.75, 1.75],
+			"scale": [1.19727, 1.19727, 1.19727]
 		},
 		"thirdperson_lefthand": {
 			"translation": [-0.5, 13.75, 1.75]
