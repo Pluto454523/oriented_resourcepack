@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/wooden_axe"
+        "layer0": "item/netherite_axe"
     },
 "overrides" : [
         {"predicate":{"custom_model_data":1},"model":"custommodel/oriented_item/holy-bundle/holy-axe"}
