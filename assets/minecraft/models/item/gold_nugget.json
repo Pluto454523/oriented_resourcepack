@@ -115,6 +115,12 @@
       {"predicate":{"custom_model_data":112},"model":"custommodel/oriented_funiture/wheel-basket/wheelbarrow_blue"},
       {"predicate":{"custom_model_data":113},"model":"custommodel/oriented_cosmetics/cosmetics/samurai-gadget"},
       {"predicate":{"custom_model_data":114},"model":"custommodel/oriented_cosmetics/cosmetics/oni-mask"},
-      {"predicate":{"custom_model_data":115},"model":"custommodel/oriented_funiture/table/table"}
+      {"predicate":{"custom_model_data":115},"model":"custommodel/oriented_funiture/table/table"},
+      {"predicate":{"custom_model_data":116},"model":"custommodel/oriented_cosmetics/cosmetics/quest_info"},
+      {"predicate":{"custom_model_data":117},"model":"custommodel/oriented_item/keys/key1"},
+      {"predicate":{"custom_model_data":118},"model":"custommodel/oriented_item/keys/key2"},
+      {"predicate":{"custom_model_data":119},"model":"custommodel/oriented_item/keys/key3"},
+      {"predicate":{"custom_model_data":120},"model":"custommodel/oriented_item/keys/key4"},
+      {"predicate":{"custom_model_data":121},"model":"custommodel/oriented_item/keys/key5"}
    ]
 }
