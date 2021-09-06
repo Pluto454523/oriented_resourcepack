@@ -1,11 +1,10 @@
 {
   "providers": [
-    {
+    { "file": "oriented_font.ttf",
       "type": "ttf",
-      "file": "font-thai.ttf",
-      "size": 14,
-      "shift": [0.0,0.5],
-      "oversample": 4.0
+      "oversample": 4.0,
+      "size": 8.0,
+      "shift": [0,2.0]
     },
     { "file": "font/base/black.png",
       "chars": ["\uF822"],
