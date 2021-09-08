@@ -121,6 +121,7 @@
       {"predicate":{"custom_model_data":118},"model":"custommodel/oriented_item/keys/key2"},
       {"predicate":{"custom_model_data":119},"model":"custommodel/oriented_item/keys/key3"},
       {"predicate":{"custom_model_data":120},"model":"custommodel/oriented_item/keys/key4"},
-      {"predicate":{"custom_model_data":121},"model":"custommodel/oriented_item/keys/key5"}
+      {"predicate":{"custom_model_data":121},"model":"custommodel/oriented_item/keys/key5"},
+      {"predicate":{"custom_model_data":122},"model":"custommodel/oriented_funiture/sign/miner-board"}
    ]
 }
