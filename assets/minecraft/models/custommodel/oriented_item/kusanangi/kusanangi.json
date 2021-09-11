@@ -273,6 +273,9 @@
 			"rotation": [56.75, 0, 0],
 			"translation": [3.25, 7.25, 0]
 		},
+		"ground": {
+			"translation": [0, 3, 0]
+		},
 		"gui": {
 			"rotation": [-41.75, 140.75, 35.5],
 			"translation": [1.75, 3.25, 0],
@@ -280,7 +283,7 @@
 		},
 		"head": {
 			"rotation": [-9.75, 87.75, 9.25],
-			"translation": [0, -14.25, 1.75],
+			"translation": [7.75, -14.25, 1.75],
 			"scale": [1.39844, 1.39844, 1.39844]
 		},
 		"fixed": {

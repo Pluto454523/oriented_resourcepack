@@ -217,6 +217,10 @@
 		"firstperson_lefthand": {
 			"translation": [8.25, -7, -1]
 		},
+		"ground": {
+			"translation": [0, 7.5, 0],
+			"scale": [0.61719, 0.61719, 0.61719]
+		},
 		"gui": {
 			"translation": [4.25, 4.75, 0]
 		},
