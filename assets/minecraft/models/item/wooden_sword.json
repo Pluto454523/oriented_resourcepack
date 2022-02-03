@@ -40,7 +40,8 @@
         {"predicate":{"custom_model_data":34},"model":"custommodel/oriented_item/raijinnoken/raijinnoken"},
         {"predicate":{"custom_model_data":35},"model":"custommodel/oriented_item/thorn-blade/thorn-blade"},
         {"predicate":{"custom_model_data":36},"model":"custommodel/oriented_item/holy-bundle/holy-sword"},
-        {"predicate":{"custom_model_data":37},"model":"custommodel/oriented_item/kusanangi/kusanangi"}
+        {"predicate":{"custom_model_data":37},"model":"custommodel/oriented_item/kusanangi/kusanangi"},
+        {"predicate":{"custom_model_data":38},"model":"custommodel/oriented_item/death-scythe/death-scythe"}
 
     ]
 }

@@ -177,9 +177,17 @@
 		"firstperson_lefthand": {
 			"translation": [-1.25, 9.25, 0]
 		},
+		"ground": {
+			"rotation": [0, 0, 87],
+			"translation": [0, -3.25, 0]
+		},
 		"gui": {
 			"rotation": [0, -99.75, 0],
 			"translation": [1.25, 7.75, 0]
+		},
+		"fixed": {
+			"rotation": [0, 81, 0],
+			"translation": [0, 5.25, -0.5]
 		}
 	},
 	"groups": [0, 1, 2, 3,

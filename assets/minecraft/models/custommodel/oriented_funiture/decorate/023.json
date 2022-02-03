@@ -5,7 +5,7 @@
 		"1": "custom/oriented_funiture/decorate/dark_oak_planks_",
 		"2": "custom/oriented_funiture/decorate/white_wool",
 		"3": "custom/oriented_funiture/decorate/red_concrete_",
-		"5": "yuushya:block/dark_oak_planks",
+		"5": "custom/oriented_funiture/decorate/acacia_compact",
 		"6": "custom/oriented_funiture/decorate/white",
 		"particle": "custom/oriented_funiture/decorate/dark_oak_planks"
 	},
@@ -458,7 +458,8 @@
 			"scale": [0.37109, 0.37109, 0.37109]
 		},
 		"fixed": {
-			"translation": [0, 0, 20],
+			"rotation": [-90, 0, 0],
+			"translation": [45.5, 8.5, 12.25],
 			"scale": [2.53711, 2.53711, 2.53711]
 		}
 	}
